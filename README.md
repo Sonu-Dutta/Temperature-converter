@@ -2,7 +2,7 @@
 
 ## Overview
 
-### This is a Project on JavaScript, that converts the input temperature in Celsius to Fahrenheit and vice-versa!
+#### This is a Project on JavaScript, that converts the input temperature in Celsius to Fahrenheit and vice-versa!
 
 ![](./media/design.png)
 
